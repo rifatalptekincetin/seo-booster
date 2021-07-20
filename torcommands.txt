@@ -1,0 +1,5 @@
+start:
+tor.exe --defaults-torrc ../Data/Tor/torrc
+
+hash pass:
+tor.exe --hash-password alptekin01
